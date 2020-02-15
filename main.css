@@ -1,3 +1,37 @@
 body {
     background-color: blanchedalmond;
 }
+
+#long-hunter img {
+    width: 100%;
+}
+
+.ars-primaryimage {
+    z-index: 1;
+}
+
+.ars-h1-overlay {
+    position: absolute;
+    top: 250px;
+    left: 200px;
+    z-index: 2;
+    color: white;
+}
+
+.ars-par-overlay {
+    position: absolute;
+    top: 350px;
+    left: 200px;
+    z-index: 2;
+    width: 600px;
+    height: 250px;
+    color: white;
+}
+
+.ars-image-overlay {
+    position: absolute;
+    top: 650px;
+    left: 200px;
+    z-index: 2;
+    color: white;
+}
